@@ -1,0 +1,9 @@
+bedrooms
+stories
+bathrooms
+parking_lots
+city_Chennai
+city_Hyderabad
+city_Kolkata
+city_Mumbai
+city_Pune

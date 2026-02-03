@@ -1,0 +1,101 @@
+location,bedrooms,stories,bathrooms,parking_lots,city,price
+Andheri East,3,2,2,1,Mumbai,15000000
+Baner,2,1,2,1,Pune,9500000
+Koramangala,4,3,3,2,Bangalore,20000000
+Anna Nagar,3,2,2,1,Chennai,12500000
+Salt Lake,2,2,1,1,Kolkata,8500000
+Gachibowli,3,2,2,2,Hyderabad,13000000
+Whitefield,3,2,3,1,Bangalore,14500000
+Hinjewadi,2,1,1,1,Pune,7800000
+Chembur,2,1,2,1,Mumbai,11000000
+T. Nagar,3,2,2,2,Chennai,13500000
+Rajarhat,2,1,1,1,Kolkata,6900000
+Miyapur,3,2,2,1,Hyderabad,10200000
+Borivali,2,1,2,1,Mumbai,9700000
+BTM Layout,3,2,3,2,Bangalore,15800000
+Wakad,2,1,1,1,Pune,8200000
+Velachery,3,2,2,2,Chennai,11800000
+Behala,2,1,1,1,Kolkata,7300000
+Kukatpally,3,2,2,2,Hyderabad,11500000
+Dadar,4,3,3,2,Mumbai,22000000
+Marathahalli,2,1,1,1,Bangalore,8700000
+Powai,3,2,2,2,Mumbai,16500000
+Aundh,3,2,2,1,Pune,10500000
+HSR Layout,4,3,3,2,Bangalore,21000000
+Besant Nagar,3,2,2,2,Chennai,14000000
+New Town,2,1,1,1,Kolkata,7500000
+Madhapur,3,2,2,1,Hyderabad,12500000
+Kalyan Nagar,2,1,2,1,Bangalore,9000000
+Khar,4,3,3,2,Mumbai,23000000
+Viman Nagar,2,1,2,1,Pune,8800000
+Tambaram,3,2,2,2,Chennai,12200000
+Ballygunge,3,2,2,1,Kolkata,10200000
+Secunderabad,3,2,2,2,Hyderabad,11900000
+Andheri West,3,2,3,2,Mumbai,17500000
+Magarpatta,2,1,1,1,Pune,8000000
+Indiranagar,4,3,3,2,Bangalore,21500000
+Perambur,2,1,1,1,Chennai,7200000
+Serampore,2,1,1,1,Kolkata,6800000
+Manikonda,3,2,2,1,Hyderabad,11300000
+Hadapsar,2,1,1,1,Pune,7900000
+Jubilee Hills,4,3,3,2,Hyderabad,22500000
+Mulund,3,2,2,2,Mumbai,14800000
+Adyar,3,2,2,1,Chennai,13200000
+Kasba,2,1,1,1,Kolkata,7400000
+Electronic City,2,1,2,1,Bangalore,8800000
+Borabanda,2,1,1,1,Hyderabad,9200000
+Malad,3,2,2,2,Mumbai,15500000
+Chinchwad,2,1,1,1,Pune,8100000
+Ashok Nagar,3,2,2,1,Chennai,12000000
+Howrah,2,1,1,1,Kolkata,7000000
+Bellandur,3,2,2,2,Bangalore,14200000
+Malkajgiri,3,2,2,1,Hyderabad,10800000
+Worli,4,3,3,2,Mumbai,24000000
+Karve Nagar,2,1,2,1,Pune,8700000
+Sholinganallur,3,2,2,1,Chennai,11200000
+Lake Town,2,1,1,1,Kolkata,7600000
+Hebbal,3,2,2,2,Bangalore,14900000
+LB Nagar,3,2,2,2,Hyderabad,11600000
+Kandivali,2,1,2,1,Mumbai,9800000
+Koregaon Park,3,2,2,2,Pune,10900000
+Mogappair,3,2,2,1,Chennai,11700000
+Baguiati,2,1,1,1,Kolkata,7200000
+Banashankari,4,3,3,2,Bangalore,20500000
+Uppal,3,2,2,1,Hyderabad,10400000
+Jogeshwari,2,1,2,1,Mumbai,10100000
+Pimpri,2,1,1,1,Pune,7900000
+Chrompet,3,2,2,1,Chennai,10800000
+Dum Dum,2,1,1,1,Kolkata,7000000
+Jayanagar,3,2,2,2,Bangalore,15300000
+Nizampet,3,2,2,2,Hyderabad,11000000
+Thane,3,2,3,2,Mumbai,17200000
+Katraj,2,1,1,1,Pune,8100000
+Avadi,3,2,2,1,Chennai,9900000
+Barasat,2,1,1,1,Kolkata,6800000
+Yelahanka,3,2,2,2,Bangalore,14400000
+Attapur,3,2,2,1,Hyderabad,10700000
+Sion,4,3,3,2,Mumbai,22500000
+Kothrud,3,2,2,1,Pune,10400000
+Kodambakkam,3,2,2,1,Chennai,11600000
+Kestopur,2,1,1,1,Kolkata,7300000
+Rajajinagar,3,2,2,2,Bangalore,15500000
+Mehdipatnam,3,2,2,2,Hyderabad,11400000
+Goregaon,3,2,3,2,Mumbai,16700000
+Vishrantwadi,2,1,1,1,Pune,7800000
+Thiruvanmiyur,3,2,2,2,Chennai,13000000
+Ultadanga,2,1,1,1,Kolkata,7100000
+HSR Ext,3,2,2,2,Bangalore,15000000
+Miyapur Ext,3,2,2,2,Hyderabad,12000000
+Byculla,4,3,3,2,Mumbai,23500000
+Pimple Saudagar,2,1,2,1,Pune,9200000
+KK Nagar,3,2,2,1,Chennai,11500000
+Tollygunge,2,1,1,1,Kolkata,7500000
+Sarjapur,3,2,2,2,Bangalore,14800000
+Chandanagar,3,2,2,2,Hyderabad,11100000
+Vile Parle,4,3,3,2,Mumbai,25000000
+Ravet,2,1,1,1,Pune,8000000
+Nungambakkam,3,2,2,2,Chennai,13800000
+Behala Chowrasta,2,1,1,1,Kolkata,7200000
+Baner Pashan Link,3,2,2,1,Pune,10600000
+Santacruz,4,3,3,2,Mumbai,24500000
+Bhosari,2,1,1,1,Pune,8500000
